@@ -1,0 +1,5 @@
+*.pdf
+*.xlsx
+Projects
+venv
+__pycache__
